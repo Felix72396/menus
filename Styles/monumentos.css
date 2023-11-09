@@ -1,0 +1,38 @@
+﻿a{
+    align-self: start;
+}
+
+.container {
+    padding-inline: 10px;
+    width: 380px;
+    height: 400px;
+}
+
+.container--d-flex{
+    justify-content: flex-start;
+}
+
+.container__label{
+    width: 100%;
+    background-color
+}
+
+.container__dropdown-list{
+    width: 100%;
+}
+
+.container__figure {
+    width: calc(100% - 10px);
+    height: auto;
+    border: thin dashed #fff;
+    padding-bottom: 20px;
+}
+
+.container__img-caption{
+    width: 90%;
+}
+
+.container__img{
+    width: 300px;
+    height: 260px;
+}
